@@ -31,3 +31,9 @@
 ![Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=ku-li-pa)   
 
 ![](https://komarev.com/ghpvc/?username=ku-li-pa)
+
+### Contact Details📞
+
+[![Telegram](https://img.shields.io/badge/-Telegram-192133?&logo=Telegram&logoColor=white)](https://t.me/Snakes_hand)
+[![QQ](https://img.shields.io/badge/-QQ-192133?&logo=Tencent%20QQ&logoColor=white)](https://qm.qq.com/cgi-bin/qm/qr?k=QMIp9T84_YK3bVxsgWuh75H-rB7ixEKt&noverify=0&personal_qrcode_source=3)
+

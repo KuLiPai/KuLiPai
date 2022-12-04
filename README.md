@@ -16,6 +16,7 @@
 ![Linux](https://img.shields.io/badge/-Linux-192133?&logo=Linux&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-192133?&logo=JavaScript&logoColor=white)
 ![ArchLinux](https://img.shields.io/badge/-ArchLinux-192133?&logo=ArchLinux&logoColor=white)
+![rust](https://img.shields.io/badge/-rust-192133?&logo=rust&logoColor=white)
 
 ### Profile Achievements🏆
 

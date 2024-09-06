@@ -27,11 +27,11 @@
 
 ### Status👀
 
-![Stats](https://github-readme-stats.vercel.app/api?username=ku-li-pa&show_icons=true)    
+![Stats](https://github-readme-stats.vercel.app/api?username=KuLiPai&show_icons=true)    
 
-![Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=ku-li-pa)   
+![Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=KuLiPai)   
 
-![](https://komarev.com/ghpvc/?username=ku-li-pa)
+![](https://komarev.com/ghpvc/?username=KuLiPai)
 
 ### Contact Details📞
 

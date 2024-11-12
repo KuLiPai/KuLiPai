@@ -2,7 +2,7 @@
 
 ### Introduce😁
 
-这里是苦小怕。一个热爱代码的学生。
+这里是苦小怕。一个热爱Code的学生。
 
 ### Skills❤️
 
@@ -14,9 +14,7 @@
 ### Learning📚
 
 ![Linux](https://img.shields.io/badge/-Linux-192133?&logo=Linux&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-192133?&logo=JavaScript&logoColor=white)
 ![ArchLinux](https://img.shields.io/badge/-ArchLinux-192133?&logo=ArchLinux&logoColor=white)
-![rust](https://img.shields.io/badge/-rust-192133?&logo=rust&logoColor=white)
 
 ### Profile Achievements🏆
 
@@ -35,6 +33,4 @@
 
 ### Contact Details📞
 
-[![Telegram](https://img.shields.io/badge/-Telegram-192133?&logo=Telegram&logoColor=white)](https://t.me/Snakes_hand)
-[![QQ](https://img.shields.io/badge/-QQ-192133?&logo=Tencent%20QQ&logoColor=white)](https://qm.qq.com/cgi-bin/qm/qr?k=QMIp9T84_YK3bVxsgWuh75H-rB7ixEKt&noverify=0&personal_qrcode_source=3)
-
+[![Telegram](https://img.shields.io/badge/-Telegram-192133?&logo=Telegram&logoColor=white)](https://t.me/KuLiPai)

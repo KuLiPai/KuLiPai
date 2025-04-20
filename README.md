@@ -22,8 +22,9 @@
 ### Profile Achievements🏆
 
 <img align="left" alt="Pull Shark" width="30px" src="https://github.com/Schweinepriester/github-profile-achievements/blob/main/images/pull-shark-default.png" />
-<img align="left" alt="Pull Shark" width="30px" src="https://github.com/Schweinepriester/github-profile-achievements/blob/main/images/yolo-default.png" />
-<img align="left" alt="Pull Shark" width="30px" src="https://github.com/Schweinepriester/github-profile-achievements/blob/main/images/quickdraw-default.png" />
+<img align="left" alt="yolo" width="30px" src="https://github.com/Schweinepriester/github-profile-achievements/blob/main/images/yolo-default.png" />
+<img align="left" alt="quickdraw" width="30px" src="https://github.com/Schweinepriester/github-profile-achievements/blob/main/images/quickdraw-default.png" />
+<img align="left" alt="starstruck" width="30px" src="https://github.com/Schweinepriester/github-profile-achievements/blob/main/images/starstruck-default.png" />
 <br />
 
 ### Status👀

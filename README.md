@@ -5,7 +5,7 @@
 
 ### 🪐 About Me
 - 💻 Passionate about **Android & Open Source**  
-- 🕹 Currently exploring **Web3, Solidity & Smart Contracts**  
+- 🕹 Currently exploring **vibe coding**  
 - 🛡️ Learning **Reverse Engineering & Security**  
 - 🎮 Minecraft lover
 
